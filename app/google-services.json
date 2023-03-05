@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "731385898965",
+    "firebase_url": "https://attendance-5e60f-default-rtdb.firebaseio.com",
+    "project_id": "attendance-5e60f",
+    "storage_bucket": "attendance-5e60f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731385898965:android:7ae5b40bbc4087c6947f5c",
+        "android_client_info": {
+          "package_name": "com.example.recattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731385898965-r5tvq9rf290m5p7h3bulfkoj3j0na7oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnHTbis5V5cA21_YDTFVeeEbJX_EyDevk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731385898965-r5tvq9rf290m5p7h3bulfkoj3j0na7oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
